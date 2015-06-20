@@ -1,9 +1,9 @@
-﻿Name: Ace Code Editor
+Name: Ace Code Editor
 AntiForgery: enabled
 Author: Lombiq
 Website: https://orchardace.codeplex.com/
 Version: 1.0
-OrchardVersion: 1.8
+OrchardVersion: 1.9.0
 Description: The Ace Code Editor (http://ace.c9.io) packaged for re-use.
 Features:
     Lombiq.AceEditor:
