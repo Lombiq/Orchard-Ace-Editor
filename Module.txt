@@ -3,7 +3,7 @@ AntiForgery: enabled
 Author: Lombiq
 Website: https://github.com/Lombiq/Orchard-Ace-Editor
 Version: 1.0
-OrchardVersion: 1.9.0
+OrchardVersion: 1.10
 Description: The Ace Code Editor (http://ace.c9.io) packaged for re-use.
 Features:
     Lombiq.AceEditor:
