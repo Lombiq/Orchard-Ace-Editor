@@ -1,8 +1,8 @@
-# Orchard Ace Editor Readme
+# Orchard Ace Editor
 
 
 
-## Project Description
+## About
 
 The Ace Code Editor (http://ace.c9.io) packaged as an Orchard module.
 
@@ -13,12 +13,9 @@ The sole purpose of this module is to have the [Ace Code Editor](http://ace.c9.i
 
 The module is also available for [DotNest](http://dotnest.com/) sites.
 
-The module's source is available in two public source repositories, automatically mirrored in both directions with [Git-hg Mirror](https://githgmirror.com):
 
-- [https://bitbucket.org/Lombiq/orchard-ace-editor](https://bitbucket.org/Lombiq/orchard-ace-editor) (Mercurial repository)
-- [https://github.com/Lombiq/Orchard-Ace-Editor](https://github.com/Lombiq/Orchard-Ace-Editor) (Git repository)
+## Contributing and support
 
-Bug reports, feature requests and comments are warmly welcome, **please do so via GitHub**.
-Feel free to send pull requests too, no matter which source repository you choose for this purpose.
+Bug reports, feature requests, comments, questions, code contributions, and love letters are warmly welcome, please do so via GitHub issues and pull requests. Please adhere to our [open-source guidelines](https://lombiq.com/open-source-guidelines) while doing so.
 
-This project is developed by [Lombiq Technologies Ltd](http://lombiq.com/). Commercial-grade support is available through Lombiq.
+This project is developed by [Lombiq Technologies](https://lombiq.com/). Commercial-grade support is available through Lombiq.
